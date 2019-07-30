@@ -1,0 +1,7 @@
+Projection     MERCATOR
+Datum          WGS84
+Zunits         NO
+Units          METER
+Xshift         0.000000
+Yshift         0.000000
+Parameters
